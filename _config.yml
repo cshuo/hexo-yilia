@@ -7,10 +7,10 @@ menu:
 
 # SubNav
 subnav:
-  github: "http://lab.artemisprojects.org/u/shuocheng"
-  rss: "#"
-  #douban: "#"
-  #mail: "#"
+  facebook: "https://github.com/cshuo"
+  douban: "http://www.douban.com/people/97347108/"
+  weibo: "http://weibo.com/2411802345/profile?topnav=1&wvr=6"
+  mail: "http://www.douban.com/people/97347108/"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -30,7 +30,8 @@ animate: true
 open_in_new: false
 
 # Miscellaneous
-google_analytics: ''
+#google_analytics: ''
+baidu_tongji: true
 favicon: /favicon.png
 
 #你的头像url
@@ -50,8 +51,11 @@ tagcloud: true
 #开启——
 friends:
   monkey的博客: http://monkey-h.github.io
-  风中一只会飞的猪的博客: http://mengzs.com/
+  会飞的猪的博客: http://mengzs.com/
   毕驰的博客: http://liutianchi.com
+  Mcl's space: http://mclspace.com
+  chuan92: https://chuan92.com
+  answ: http://answ.me
 
 #是否开启“关于我”。
 #不开启——
