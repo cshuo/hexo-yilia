@@ -32,7 +32,7 @@ open_in_new: false
 # Miscellaneous
 #google_analytics: ''
 baidu_tongji: true
-favicon: /favicon.png
+favicon: /img/favicon.png
 
 #你的头像url
 #avatar: http://b.zol-img.com.cn/desk/bizhi/image/3/960x600/1375408735915.jpg
